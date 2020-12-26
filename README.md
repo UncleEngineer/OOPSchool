@@ -1,5 +1,7 @@
 # (OOP School) ไลบรารี่สำหรับใช้เรียน Python OOP by Uncle Engineer
 
+PyPi: https://pypi.org/project/oopschool/
+
 Python OOP+ วิธีสร้าง Library เป็นของตัวเอง+ อัพโหลด Package ไปยัง PyPI.org
 
 โปรแกรมนี้ลุงใช้สำหรับสอนการเขียนโปรแกรมแบบ OOP สามารถดูตัวอย่างคลิปวิดีโอที่สอนได้ใน: https://youtu.be/1egtTXUJ3-4
