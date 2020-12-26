@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 # newschool.py
 
-import school
-from school import Student,SpecialStudent
-from school import * # * is import all
+import oopschool.school
+from oopschool.school import Student,SpecialStudent
+from oopschool.school import * # * is import all
 
 def Test():
 	'''
